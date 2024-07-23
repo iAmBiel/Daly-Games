@@ -25,7 +25,7 @@ Here are the technologies used in this project.
 
 ### 4 - Profile
 
-![Profile](https://github.com/user-attachments/assets/2f39d866-c348-4c18-994c-6c36e4ca96ea)
+![Profile](https://github.com/user-attachments/assets/45b5cf81-37e9-4af4-a8c6-fa8b49af4f73)
 
 ## Authors
 
